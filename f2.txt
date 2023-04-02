@@ -1,2 +1,3 @@
 Execute the cherry pick command
 git Cherry Pick - Bring in changes from a specific commit.
+By using this command, we can get the specific commit made in another branch to our branch. 
