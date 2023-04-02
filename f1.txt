@@ -1,1 +1,2 @@
 Execute the cherry pick command
+git cheppry-pick: It is a git command which is used to get a specific commit or whole branch commits to our branch.
